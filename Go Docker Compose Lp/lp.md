@@ -8,3 +8,4 @@ isAvailable: true
 scenarioCount: 1
 scenarios:
   - Go Docker Scenario 1
+  - Go Docker Scenario 2
