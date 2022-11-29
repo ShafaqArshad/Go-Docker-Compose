@@ -1,5 +1,5 @@
 categories:
-  - istio
+  - golang
 title: Go Docker Compose Lp
 description: istio test lp 1 for prod long description
 isPremium: true
