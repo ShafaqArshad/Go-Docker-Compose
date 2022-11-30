@@ -1,9 +1,9 @@
-title: Go Docker Scenario 21
+title: Go Docker Scenario 2
 description: Understanding python and go scenaarios for testing the description of lp python
 time: 25 minutes
 steps:
   - step1.md
 isNew: true
-isPremium: true
+isPremium: truee
 isAvailable: true
 level: expert
