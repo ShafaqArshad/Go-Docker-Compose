@@ -1,5 +1,5 @@
 categories:
-  - docker
+  - golang
 title: Docker Lp Test
 description: istio test lp 1 for prod long description
 isPremium: true
