@@ -9,4 +9,4 @@ scenarioCount: 3
 scenarios:
   - Go Docker Scenario 1
   - Go Docker Scenario 2
-  - Go Docker Scenario 4
+  - Go Docker Scenario 3
