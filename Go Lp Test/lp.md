@@ -8,3 +8,7 @@ isAvailable: true
 scenarioCount: 1
 scenarios:
  - Go Scenario Sa 1
+ - Go Scenario Sa 2
+ - Go Scenario Sa 3
+ - Go Scenario Sa 4
+ - Go Scenario Sa 5
